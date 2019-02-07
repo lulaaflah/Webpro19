@@ -1,0 +1,17 @@
+.bg{
+	background-image: linear-gradient(90deg, red, yellow);
+}
+.gambar{
+	background: url("foto_1.png");
+	height: 500px;
+	width: 500px;
+}
+.gambar:hover{
+	background: url("foto_2.png");
+	height: 500px;
+	width: 500px;
+
+}
+.ow{
+	background-image: repeating-radial-gradient(circle at 0 0, #eee, #ccc 50px);
+}
